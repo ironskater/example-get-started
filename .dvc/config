@@ -1,0 +1,4 @@
+[core]
+    remote = my_dvc
+['remote "my_dvc"']
+    url = /home/iot/data/Atelier/python/dvc_data
